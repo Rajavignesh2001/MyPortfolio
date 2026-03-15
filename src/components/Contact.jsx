@@ -32,7 +32,7 @@ const contactItems = [
     icon: "💼",
     label: "LinkedIn",
     value: "linkedin.com/in/Rajavignesh",
-    href: "https://linkedin.com/in/Rajavignesh",
+    href: "https://www.linkedin.com/in/rajavignesh-m-876807224/",
   },
   { icon: "📍", label: "Location", value: "Bengaluru, Karnataka", href: null },
 ];
